@@ -1,0 +1,20 @@
+.body {
+  letter-spacing: 0.2em;
+  background: url("../images/image.jpeg");
+  background-size: cover;
+  background-repeat: no-repeat;
+  max-width: 500px;
+}
+.form {
+  background: #eeedec;
+  max-width: 500px;
+}
+
+.font {
+  letter-spacing: 0.2em;
+  font-size: 0.8em;
+}
+.mainbackground {
+  background-color: silver;
+  height: 800px;
+}
